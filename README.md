@@ -1,0 +1,1 @@
+To sa pierwsze lekcje rubiego.
