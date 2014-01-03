@@ -1,16 +1,13 @@
-To sa pierwsze lekcje rubiego.
+Wszystkie progamy musza byc wrzucone na github do projektu ruby-lessons.
 
-Dzis bedziemy instalowas ruby
+# Zadanie 1
 
-http://www.ruby-doc.org/core-1.9.3/String.html
+Napisz program hello world w pliku hello_world.rb tak aby po uruchomieniu za pomoca:
+```
+ruby hello_world.rb
+```
 
-
-# Class
-(dokumentacje mozna znalezc pod adresem http://ruby-doc.org/core-2.0/)
-
-String
-Symbol
-Fixnum / Float / Decimal
-
-Array
-Hash
+na ekranie pojawil sie napis
+```
+'Hello world!'
+```
