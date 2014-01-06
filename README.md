@@ -9,5 +9,5 @@ ruby hello_world.rb
 
 na ekranie pojawil sie napis
 ```
-'Hello world!'
+Hello world!
 ```
