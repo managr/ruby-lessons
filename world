@@ -1,0 +1,4 @@
+class world
+def hello
+puts 'hello world'
+
