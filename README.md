@@ -24,3 +24,7 @@ na ekranie powinien pojawic sie napis:
 ```
 Hello world!
 ```
+
+# Zadanie 3
+
+Not yet ready...
