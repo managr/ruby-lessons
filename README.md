@@ -29,4 +29,4 @@ Hello world!
 
 W pliku hi.rb napisac hello world przy uzyciu web'owego frameworku [sinatra](http://www.sinatrarb.com/). Przygotowac plik Gemfile przy uzyciu [bundlera](http://bundler.io/) i zdeployowac aplikacje na [heroku](http://heroku.com) pod adresem http://dziendobry.herokuapp.com.
 
-Czyli po wejsciu na adres (dziendobry.herokuapp.com)[http://dziendobry.herokuapps.com] powinien pojawic sie napis 'Hello World!'.
+Czyli po wejsciu na adres (dziendobry.herokuapp.com)[http://dziendobry.herokuapp.com] powinien pojawic sie napis 'Hello World!'.
