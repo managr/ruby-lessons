@@ -27,4 +27,6 @@ Hello world!
 
 # Zadanie 3
 
-Not yet ready...
+W pliku hi.rb napisac hello world przy uzyciu web'owego frameworku [sinatra](http://www.sinatrarb.com/). Przygotowac plik Gemfile przy uzyciu [bundlera](http://bundler.io/) i zdeployowac aplikacje na [heroku](http://heroku.com) pod adresem http://helloagain.herokuapp.com.
+
+Czyli po wejsciu na adres (helloagain.herokuapp.com)[http://helloagain.herokuapp.com] powinien pojawic sie napis 'Hello World!'.
