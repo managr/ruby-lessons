@@ -33,4 +33,11 @@ Czyli po wejsciu na adres (helloagain.herokuapp.com)[http://helloagain.herokuapp
 
 # Zadanie 4
 
-Bedzie to program napisany w railsach. Szczegoly jutro rano!
+* Stworz nowe repozytorim w github o nazwie RailsOne
+* Dodaj do repozytorum uzytkownika managr
+* Stworz szkielet aplikacji w railsach i dodaj do repozytorium
+* Zdepoyuj aplikacje na heroku pod nazwa rails-one (adres http://rails-one.herokuapp.com/)
+* Uwtorz controller welcome z metoda index wypisujaca text 'welcome to rails one app'
+* Ustaw domyslny routing na metode welcome
+
+Po wejsciu na http://rails-one.herokuapp.com/ powinien sie wyswietlac text 'welcome to rails one app'.
