@@ -41,3 +41,5 @@ Czyli po wejsciu na adres (helloagain.herokuapp.com)[http://helloagain.herokuapp
 * Ustaw domyslny routing na metode welcome
 
 Po wejsciu na http://rails-one.herokuapp.com/ powinien sie wyswietlac text 'welcome to rails one app'.
+
+Zadanie moze wydawac sie podobne do poprzedniego, ale wprowadzamy nowy framework, nowe repozytorium i zaczynamy pisac nowa aplikacje.
